@@ -1,0 +1,110 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.main a{
+    text-decoration: none;
+}
+.main{
+    background-color: #333;
+}
+.main h4{
+    display: inline-block;
+    margin: 17px;
+    color: cadetblue;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    position: relative;
+    left: 20%;
+}
+.main ul{
+    list-style-type: none;
+    float: right;
+    margin: 20px;
+}
+.main ul li{
+    float: left;
+    margin-inline: 20px;
+    position: relative;
+    right: 200px;
+
+}
+.main ul li a{
+    color:whitesmoke;
+    font-family: 'Cabin', sans-serif;
+    font-size: 17px;
+
+}
+.main ul li a:hover{
+    color:rgb(212, 212, 212);
+
+
+}
+/* Center Start             */
+
+.centre{
+    align-items: center;
+    display: grid;
+    position:absolute;
+    left: 30%;
+    top: 42%;
+}
+
+.box{
+    text-align: center;
+}
+.box h2{
+    background-color:#282828;
+    color: cornsilk;
+    font-family: 'Cabin', sans-serif;
+    font-size: 2.5rem;
+    width: auto;
+    padding: 1rem;
+    border-radius: 6px;
+
+    
+}
+.color{
+    color: skyblue;
+}
+
+.btnn{
+    background-color:rgba(64, 180, 35, 0.589);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    margin: 30px;
+    outline: none;
+    box-shadow: 5px 5px 3px #aaaaaa;
+
+}
+.btnn:hover{
+    background-color:rgba(14, 13, 13, 0.76);
+    color: snow;
+    cursor:pointer;
+    border: none;
+    transition-duration: 0.6s;
+}
+
+.mid{
+    position:absolute;
+    left: 41%;
+    top: 55%;
+}
+
+
+
+
+
+
+
+
+
+
